@@ -26,3 +26,4 @@ export default function AuthRoutes() {
     )
 }
 //i guess i need to change them.
+//lets make some fun
