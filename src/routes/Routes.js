@@ -25,3 +25,4 @@ export default function AuthRoutes() {
         </Routes>
     )
 }
+//i guess i need to change them.
